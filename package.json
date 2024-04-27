@@ -1,0 +1,21 @@
+{
+  "name": "new_featured_student_management_system_by_tuba_jan",
+  "version": "1.0.4",
+  "description": "you can add in our insitute check id couurse tiution fees and many more",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tuba jan",
+  "license": "MIT",
+  "dependencies": {
+    "figlet": "^1.7.0",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.5.8",
+    "@types/inquirer": "^9.0.7"
+  }
+}
